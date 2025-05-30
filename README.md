@@ -20,7 +20,7 @@ FBX/ADE format mesh and animation loading
 The following features will be completed in the future:
 ```
 Collision: AABB; OBB; Sphere
-Partile
+Particle System
 ```
 The UML is shown below:
 
