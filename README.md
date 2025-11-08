@@ -4,7 +4,7 @@
 
 This repo is a toy renderer implemented using C++ and OpenGL. 
 
-The following features has been implemented:
+The following features have been implemented:
 ```
 Cube
 Texture: Diffusion Map; Normal Map; Specular Map; Emissive Map
